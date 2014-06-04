@@ -25,27 +25,5 @@
             </includes>
             </resource>
         </resources>
-        <!--<plugins>-->
-            <!--<plugin>-->
-                <!--<groupId>org.apache.maven.plugins</groupId>-->
-                <!--<artifactId>maven-jar-plugin</artifactId>-->
-                <!--<version>2.4</version>-->
-                <!--<executions>-->
-                    <!--<execution>-->
-                        <!--<phase>package</phase>-->
-                        <!--<goals>-->
-                            <!--<goal>jar</goal>-->
-                        <!--</goals>-->
-                        <!--<configuration>-->
-                            <!--<classifier>template</classifier>-->
-                            <!--<finalName>settings</finalName>-->
-                            <!--<includes>-->
-                                <!--<include>**/resource/**</include>-->
-                            <!--</includes>-->
-                        <!--</configuration>-->
-                    <!--</execution>-->
-                <!--</executions>-->
-            <!--</plugin>-->
-        <!--</plugins>-->
     </build>
 </project>
