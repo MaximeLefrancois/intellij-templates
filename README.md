@@ -1,4 +1,4 @@
-﻿#IntelliJ 13 code templates
+#IntelliJ 13 code templates
 
 
 ##How to install the template
