@@ -82,13 +82,10 @@ On Windows
 		<th>description</th>
 	</tr>
 	<tr>
-		<td>that</td><td>that / fest assert</td>
+		<td>that</td><td>that / assert4j</td>
 	</tr>
 	<tr>
-		<td>ext</td><td>extract property</td>
-	</tr>
-	<tr>
-		<td>filter</td><td>filter property</td>
+		<td>equalto</td><td>Fest Assertion assertThat / is equal to</td>
 	</tr>
 </table>
 
